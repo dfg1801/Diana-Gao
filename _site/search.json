@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "HI :) personal website of Diana Gao\n\nResearch\nPublications"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "description"
+  },
+  {
+    "objectID": "research.html#project-1",
+    "href": "research.html#project-1",
+    "title": "Research",
+    "section": "",
+    "text": "description"
+  },
+  {
+    "objectID": "research.html#project-2",
+    "href": "research.html#project-2",
+    "title": "Research",
+    "section": "Project 2",
+    "text": "Project 2\nmore description"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ethan C Hill, Diana F Gao, Dan A Polhemus, Claire J Fraser, Bulisa Iova, Allen Allison, Marguerite A Butler, Testing Geology with Biology: Plate Tectonics and the Diversification of Microhylid Frogs in the Papuan Region, Integrative Organismal Biology, Volume 5, Issue 1, 2023, obad028, https://doi-org.eres.library.manoa.hawaii.edu/10.1093/iob/obad028"
+  }
+]

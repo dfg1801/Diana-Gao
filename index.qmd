@@ -1,11 +1,8 @@
 ---
-title: "Diana-Gao"
+title: "Home"
 ---
 
-This is a Quarto website.
+HI :) personal website of Diana Gao
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+- Research
+- Publications
