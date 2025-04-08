@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "HI :) personal website of Diana Gao\n\nResearch\nPublications"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -33,6 +19,13 @@
     "title": "Research",
     "section": "Project 2",
     "text": "Project 2\nmore description"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "HI :) personal website of Diana Gao\n\nResearch\nPublications"
   },
   {
     "objectID": "publications.html",
