@@ -13,7 +13,10 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: 
+      - minty
+      - custom.scss
+    fontcolor: "#5C4100"
     css: styles.css
     toc: true
 
